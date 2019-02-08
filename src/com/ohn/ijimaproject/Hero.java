@@ -15,7 +15,7 @@ public class Hero implements Serializable{
 
 	@Override
 	public String toString(){
-		return "ワタシノ----の名前は" + name +"｡体力は" + hp + "、精神力は" + mp + "だ。";
+		return "ワタシノ----の名前は!!!!" + name +"｡体力は" + hp + "、精神力は" + mp + "だ。";
 	}
 
 
